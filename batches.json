@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "eduspark-padhleakshay",
+      "source": "eduspark",
+      "name": "A.I x Akshay \u2014 Class 10th Crash Course",
+      "byName": "EDUSPARK \u00b7 Free 24-Hour Full Syllabus",
+      "startDate": "",
+      "endDate": "",
+      "language": "Hinglish",
+      "previewImage": "assets/padhle-banner.jpg",
+      "feeTotal": 699,
+      "type": "E_BATCH",
+      "slug": "eduspark-padhleakshay",
+      "subBatches": []
+    },
+    {
+      "_id": "finish10-crash-course",
+      "source": "finish10",
+      "name": "Finish Class Xth In A \"24:00:00 HOURS\" Crash Course",
+      "byName": "CODEX STUDYS \u00b7 Limited Seats",
+      "startDate": "",
+      "endDate": "",
+      "language": "Hinglish",
+      "previewImage": "assets/finish10-banner.jpg",
+      "feeTotal": 499,
+      "type": "E_BATCH",
+      "slug": "finish10-crash-course",
+      "subBatches": []
+    }
+  ]
+}
